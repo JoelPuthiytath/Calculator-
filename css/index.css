@@ -1,0 +1,87 @@
+.cal {
+  width: 300px;
+  height: 510px;
+  border: solid 10px;
+  border-radius: 30px;
+  margin-left: 68px;
+  padding-bottom: 25px;
+  padding-top: 10px;
+  background-image: linear-gradient(#ffafbd,#ffc3a0);
+}
+#screen {
+  width: 90%;
+  height: 70px;
+  border: inset 5px;
+  border-radius: 5px;
+  margin-left: 8px;
+  margin-top: 6px;
+  font-size: 30px;
+  background: #D8D8D8;
+}
+#button {
+  font-size: 40px;
+  margin-left: 25px;
+  margin-top: 25px;
+  background: black;
+  color: white;
+  border-radius: 20px;
+}
+.button {
+  font-size: 30px;
+  margin-left: 23px;
+  margin-top: 30px;
+  padding-bottom: 5px;
+  background: black;
+  color: white;
+  border-radius: 10px;
+}
+.equal2 {
+  font-size: 48px;
+  background: black;
+  color: red;
+  margin-left: 15px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.remove {
+  font-size: 45px;
+  background: black;
+  color: yellow;
+  margin-top:  0;
+  padding-bottom: 10px;
+  margin-left: 20px;
+  border-radius: 15px;
+}
+h1 {
+  margin-left: 30px;
+  font-style: italic;
+}
+h3 {
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+#buttonline {
+  font-size: 43px;
+  padding-left: px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #fff;
+  margin-left: 25px;
+  background: black;
+  border-radius: 20px;
+  
+}
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-top: 6px;
+  padding-left: 20px;
+}
+.mainbody {
+  background-image: url('/images/hand.png');
+  background-repeat: no-repeat;
+  background-attachment:;
+  background-size: 550px 700px;
+  padding-top: 10px;
+}
